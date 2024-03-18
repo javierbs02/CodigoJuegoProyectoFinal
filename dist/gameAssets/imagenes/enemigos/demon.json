@@ -1,0 +1,175 @@
+{
+	"frames": {
+		"demon_idle_0": {
+			"frame": {
+				"x": 1,
+				"y": 1,
+				"w": 23,
+				"h": 30
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 23,
+				"h": 30
+			},
+			"sourceSize": {
+				"w": 23,
+				"h": 30
+			}
+		},
+		"demon_idle_1": {
+			"frame": {
+				"x": 26,
+				"y": 1,
+				"w": 23,
+				"h": 31
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 23,
+				"h": 31
+			},
+			"sourceSize": {
+				"w": 23,
+				"h": 31
+			}
+		},
+		"demon_idle_2": {
+			"frame": {
+				"x": 51,
+				"y": 1,
+				"w": 22,
+				"h": 31
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 22,
+				"h": 31
+			},
+			"sourceSize": {
+				"w": 22,
+				"h": 31
+			}
+		},
+		"demon_idle_3": {
+			"frame": {
+				"x": 1,
+				"y": 34,
+				"w": 26,
+				"h": 28
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 26,
+				"h": 28
+			},
+			"sourceSize": {
+				"w": 26,
+				"h": 28
+			}
+		},
+		"demon_walk_0": {
+			"frame": {
+				"x": 29,
+				"y": 34,
+				"w": 22,
+				"h": 28
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 22,
+				"h": 28
+			},
+			"sourceSize": {
+				"w": 22,
+				"h": 28
+			}
+		},
+		"demon_walk_1": {
+			"frame": {
+				"x": 53,
+				"y": 34,
+				"w": 22,
+				"h": 29
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 22,
+				"h": 29
+			},
+			"sourceSize": {
+				"w": 22,
+				"h": 29
+			}
+		},
+		"demon_walk_2": {
+			"frame": {
+				"x": 77,
+				"y": 1,
+				"w": 22,
+				"h": 34
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 22,
+				"h": 34
+			},
+			"sourceSize": {
+				"w": 22,
+				"h": 34
+			}
+		},
+		"demon_walk_3": {
+			"frame": {
+				"x": 77,
+				"y": 37,
+				"w": 23,
+				"h": 28
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 23,
+				"h": 28
+			},
+			"sourceSize": {
+				"w": 23,
+				"h": 28
+			}
+		}
+	},
+	"meta": {
+		"app": "http://www.codeandweb.com/texturepacker",
+		"version": "1.0",
+		"image": "demon.png",
+		"format": "RGBA8888",
+		"size": {
+			"w": 101,
+			"h": 66
+		},
+		"scale": "1"
+	}
+}

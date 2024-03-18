@@ -1,0 +1,175 @@
+{
+	"frames": {
+		"skeleton_idle_0": {
+			"frame": {
+				"x": 1,
+				"y": 1,
+				"w": 10,
+				"h": 14
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 10,
+				"h": 14
+			},
+			"sourceSize": {
+				"w": 10,
+				"h": 14
+			}
+		},
+		"skeleton_idle_1": {
+			"frame": {
+				"x": 13,
+				"y": 1,
+				"w": 10,
+				"h": 12
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 10,
+				"h": 12
+			},
+			"sourceSize": {
+				"w": 10,
+				"h": 12
+			}
+		},
+		"skeleton_idle_2": {
+			"frame": {
+				"x": 25,
+				"y": 1,
+				"w": 10,
+				"h": 11
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 10,
+				"h": 11
+			},
+			"sourceSize": {
+				"w": 10,
+				"h": 11
+			}
+		},
+		"skeleton_idle_3": {
+			"frame": {
+				"x": 25,
+				"y": 14,
+				"w": 10,
+				"h": 13
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 10,
+				"h": 13
+			},
+			"sourceSize": {
+				"w": 10,
+				"h": 13
+			}
+		},
+		"skeleton_walk_0": {
+			"frame": {
+				"x": 37,
+				"y": 1,
+				"w": 10,
+				"h": 14
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 10,
+				"h": 14
+			},
+			"sourceSize": {
+				"w": 10,
+				"h": 14
+			}
+		},
+		"skeleton_walk_1": {
+			"frame": {
+				"x": 1,
+				"y": 17,
+				"w": 10,
+				"h": 13
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 10,
+				"h": 13
+			},
+			"sourceSize": {
+				"w": 10,
+				"h": 13
+			}
+		},
+		"skeleton_walk_2": {
+			"frame": {
+				"x": 13,
+				"y": 17,
+				"w": 10,
+				"h": 15
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 10,
+				"h": 15
+			},
+			"sourceSize": {
+				"w": 10,
+				"h": 15
+			}
+		},
+		"skeleton_walk_3": {
+			"frame": {
+				"x": 37,
+				"y": 17,
+				"w": 10,
+				"h": 14
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 10,
+				"h": 14
+			},
+			"sourceSize": {
+				"w": 10,
+				"h": 14
+			}
+		}
+	},
+	"meta": {
+		"app": "http://www.codeandweb.com/texturepacker",
+		"version": "1.0",
+		"image": "skeleton.png",
+		"format": "RGBA8888",
+		"size": {
+			"w": 48,
+			"h": 33
+		},
+		"scale": "1"
+	}
+}

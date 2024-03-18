@@ -1,0 +1,515 @@
+{
+	"frames": {
+		"slime_attack_0": {
+			"frame": {
+				"x": 1,
+				"y": 1,
+				"w": 18,
+				"h": 10
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 18,
+				"h": 10
+			},
+			"sourceSize": {
+				"w": 18,
+				"h": 10
+			}
+		},
+		"slime_attack_1": {
+			"frame": {
+				"x": 21,
+				"y": 1,
+				"w": 17,
+				"h": 11
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 17,
+				"h": 11
+			},
+			"sourceSize": {
+				"w": 17,
+				"h": 11
+			}
+		},
+		"slime_attack_2": {
+			"frame": {
+				"x": 40,
+				"y": 1,
+				"w": 12,
+				"h": 20
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 12,
+				"h": 20
+			},
+			"sourceSize": {
+				"w": 12,
+				"h": 20
+			}
+		},
+		"slime_attack_3": {
+			"frame": {
+				"x": 54,
+				"y": 1,
+				"w": 12,
+				"h": 22
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 12,
+				"h": 22
+			},
+			"sourceSize": {
+				"w": 12,
+				"h": 22
+			}
+		},
+		"slime_attack_4": {
+			"frame": {
+				"x": 68,
+				"y": 1,
+				"w": 13,
+				"h": 18
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 13,
+				"h": 18
+			},
+			"sourceSize": {
+				"w": 13,
+				"h": 18
+			}
+		},
+		"slime_attack_5": {
+			"frame": {
+				"x": 1,
+				"y": 25,
+				"w": 16,
+				"h": 10
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 10
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 10
+			}
+		},
+		"slime_attack_6": {
+			"frame": {
+				"x": 19,
+				"y": 21,
+				"w": 18,
+				"h": 9
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 18,
+				"h": 9
+			},
+			"sourceSize": {
+				"w": 18,
+				"h": 9
+			}
+		},
+		"slime_damage_0": {
+			"frame": {
+				"x": 39,
+				"y": 25,
+				"w": 14,
+				"h": 14
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 14,
+				"h": 14
+			},
+			"sourceSize": {
+				"w": 14,
+				"h": 14
+			}
+		},
+		"slime_damage_1": {
+			"frame": {
+				"x": 68,
+				"y": 21,
+				"w": 13,
+				"h": 18
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 13,
+				"h": 18
+			},
+			"sourceSize": {
+				"w": 13,
+				"h": 18
+			}
+		},
+		"slime_damage_2": {
+			"frame": {
+				"x": 1,
+				"y": 41,
+				"w": 16,
+				"h": 12
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 12
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 12
+			}
+		},
+		"slime_die_0": {
+			"frame": {
+				"x": 19,
+				"y": 41,
+				"w": 14,
+				"h": 14
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 14,
+				"h": 14
+			},
+			"sourceSize": {
+				"w": 14,
+				"h": 14
+			}
+		},
+		"slime_die_1": {
+			"frame": {
+				"x": 35,
+				"y": 41,
+				"w": 13,
+				"h": 19
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 13,
+				"h": 19
+			},
+			"sourceSize": {
+				"w": 13,
+				"h": 19
+			}
+		},
+		"slime_die_2": {
+			"frame": {
+				"x": 50,
+				"y": 41,
+				"w": 14,
+				"h": 20
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 14,
+				"h": 20
+			},
+			"sourceSize": {
+				"w": 14,
+				"h": 20
+			}
+		},
+		"slime_die_3": {
+			"frame": {
+				"x": 1,
+				"y": 63,
+				"w": 17,
+				"h": 18
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 17,
+				"h": 18
+			},
+			"sourceSize": {
+				"w": 17,
+				"h": 18
+			}
+		},
+		"slime_die_4": {
+			"frame": {
+				"x": 20,
+				"y": 63,
+				"w": 18,
+				"h": 6
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 18,
+				"h": 6
+			},
+			"sourceSize": {
+				"w": 18,
+				"h": 6
+			}
+		},
+		"slime_idle_0": {
+			"frame": {
+				"x": 40,
+				"y": 63,
+				"w": 16,
+				"h": 12
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 12
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 12
+			}
+		},
+		"slime_idle_1": {
+			"frame": {
+				"x": 58,
+				"y": 63,
+				"w": 16,
+				"h": 12
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 12
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 12
+			}
+		},
+		"slime_idle_2": {
+			"frame": {
+				"x": 83,
+				"y": 1,
+				"w": 16,
+				"h": 11
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 11
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 11
+			}
+		},
+		"slime_idle_3": {
+			"frame": {
+				"x": 83,
+				"y": 14,
+				"w": 16,
+				"h": 11
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 11
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 11
+			}
+		},
+		"slime_walk_0": {
+			"frame": {
+				"x": 66,
+				"y": 41,
+				"w": 20,
+				"h": 10
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 20,
+				"h": 10
+			},
+			"sourceSize": {
+				"w": 20,
+				"h": 10
+			}
+		},
+		"slime_walk_1": {
+			"frame": {
+				"x": 76,
+				"y": 53,
+				"w": 12,
+				"h": 16
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 12,
+				"h": 16
+			},
+			"sourceSize": {
+				"w": 12,
+				"h": 16
+			}
+		},
+		"slime_walk_2": {
+			"frame": {
+				"x": 20,
+				"y": 71,
+				"w": 12,
+				"h": 18
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 12,
+				"h": 18
+			},
+			"sourceSize": {
+				"w": 12,
+				"h": 18
+			}
+		},
+		"slime_walk_3": {
+			"frame": {
+				"x": 76,
+				"y": 71,
+				"w": 16,
+				"h": 15
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 15
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 15
+			}
+		},
+		"slime_walk_4": {
+			"frame": {
+				"x": 83,
+				"y": 27,
+				"w": 16,
+				"h": 12
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 12
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 12
+			}
+		},
+		"slime_walk_5": {
+			"frame": {
+				"x": 101,
+				"y": 1,
+				"w": 16,
+				"h": 11
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 11
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 11
+			}
+		}
+	},
+	"meta": {
+		"app": "http://www.codeandweb.com/texturepacker",
+		"version": "1.0",
+		"image": "slime.png",
+		"format": "RGBA8888",
+		"size": {
+			"w": 118,
+			"h": 90
+		},
+		"scale": "1"
+	}
+}

@@ -1,0 +1,175 @@
+{
+	"frames": {
+		"troll_idle_0": {
+			"frame": {
+				"x": 1,
+				"y": 1,
+				"w": 20,
+				"h": 26
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 20,
+				"h": 26
+			},
+			"sourceSize": {
+				"w": 20,
+				"h": 26
+			}
+		},
+		"troll_idle_1": {
+			"frame": {
+				"x": 23,
+				"y": 1,
+				"w": 20,
+				"h": 26
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 20,
+				"h": 26
+			},
+			"sourceSize": {
+				"w": 20,
+				"h": 26
+			}
+		},
+		"troll_idle_2": {
+			"frame": {
+				"x": 45,
+				"y": 1,
+				"w": 22,
+				"h": 25
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 22,
+				"h": 25
+			},
+			"sourceSize": {
+				"w": 22,
+				"h": 25
+			}
+		},
+		"troll_idle_3": {
+			"frame": {
+				"x": 45,
+				"y": 28,
+				"w": 20,
+				"h": 25
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 20,
+				"h": 25
+			},
+			"sourceSize": {
+				"w": 20,
+				"h": 25
+			}
+		},
+		"troll_walk_0": {
+			"frame": {
+				"x": 69,
+				"y": 1,
+				"w": 20,
+				"h": 26
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 20,
+				"h": 26
+			},
+			"sourceSize": {
+				"w": 20,
+				"h": 26
+			}
+		},
+		"troll_walk_1": {
+			"frame": {
+				"x": 1,
+				"y": 29,
+				"w": 20,
+				"h": 27
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 20,
+				"h": 27
+			},
+			"sourceSize": {
+				"w": 20,
+				"h": 27
+			}
+		},
+		"troll_walk_2": {
+			"frame": {
+				"x": 23,
+				"y": 29,
+				"w": 20,
+				"h": 28
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 20,
+				"h": 28
+			},
+			"sourceSize": {
+				"w": 20,
+				"h": 28
+			}
+		},
+		"troll_walk_3": {
+			"frame": {
+				"x": 67,
+				"y": 29,
+				"w": 22,
+				"h": 26
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 22,
+				"h": 26
+			},
+			"sourceSize": {
+				"w": 22,
+				"h": 26
+			}
+		}
+	},
+	"meta": {
+		"app": "http://www.codeandweb.com/texturepacker",
+		"version": "1.0",
+		"image": "troll.png",
+		"format": "RGBA8888",
+		"size": {
+			"w": 90,
+			"h": 58
+		},
+		"scale": "1"
+	}
+}
